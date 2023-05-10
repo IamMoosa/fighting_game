@@ -1,2 +1,2 @@
 # fighting_game
-2D fighting game in JavaScript
+2D fighting game in JavaScript... in progress...
